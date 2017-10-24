@@ -12,3 +12,7 @@ Examples includes below.
 * Bidirectional Search (BS)
 
 uninformed-search-algorithm.py contains implementation of BFS, DFS, and UCS.
+
+## Constraint Satisfaciton Problem
+constraint-satisfaction-problem.py is the implementation of Constraint Satisfaction Problem.
+Goal is coloring each node with a color that is different from any of its adjacent nodes.
